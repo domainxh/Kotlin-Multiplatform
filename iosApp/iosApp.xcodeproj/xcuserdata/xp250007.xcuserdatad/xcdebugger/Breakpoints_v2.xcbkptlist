@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F3632B8C-18EB-4389-9162-42B90879F11A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E43B2C13-E08E-4A93-8F35-BBFAF79BDB40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../app/src/commonMain/kotlin/network/Api.kt"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DA10B34-8B77-47B4-BBC5-F6C77A0C2358"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "394FC144-F3A5-4995-96FE-952D2A9D63E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../app/src/commonMain/kotlin/network/Api.kt"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../app/src/commonMain/kotlin/business/TodosViewModel.kt"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396 - 88474dc06340a029"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kfun:business.TodosViewModel.loadTodos()"
+                  moduleName = "app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/XP250007/Desktop/NCR_PoC/kmp/app/src/commonMain/kotlin/business/TodosViewModel.kt"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396 - 5ce2e12a07292d69"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kfun:business.TodosViewModel.$loadTodos$lambda-0COROUTINE$0.&lt;init&gt;#internal"
+                  moduleName = "app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/XP250007/Desktop/NCR_PoC/kmp/app/src/commonMain/kotlin/business/TodosViewModel.kt"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396 - d2ca43ceb8bc2a30"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kfun:business.TodosViewModel.$loadTodos$lambda-0COROUTINE$0.invokeSuspend#internal"
+                  moduleName = "app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/XP250007/Desktop/NCR_PoC/kmp/app/src/commonMain/kotlin/business/TodosViewModel.kt"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396 - 72221c2445bfd47"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kfun:business.TodosViewModel.$loadTodos$lambda-0COROUTINE$0.&lt;init&gt;#internal.299"
+                  moduleName = "app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/XP250007/Desktop/NCR_PoC/kmp/app/src/commonMain/kotlin/business/TodosViewModel.kt"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396 - 18733af4058ccf37"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kfun:business.TodosViewModel.$loadTodos$lambda-0COROUTINE$0.create#internal"
+                  moduleName = "app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/XP250007/Desktop/NCR_PoC/kmp/app/src/commonMain/kotlin/business/TodosViewModel.kt"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "11">
+               </Location>
+               <Location
+                  uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396 - 7ef6f0bbb76be3cf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kfun:business.TodosViewModel.$loadTodos$lambda-0COROUTINE$0.invoke#internal"
+                  moduleName = "app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/XP250007/Desktop/NCR_PoC/kmp/app/src/commonMain/kotlin/business/TodosViewModel.kt"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "11">
+               </Location>
+               <Location
+                  uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396 - 7529fb2ae50ae0cb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kfun:business.TodosViewModel.loadTodos$lambda-1#internal"
+                  moduleName = "app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/XP250007/Desktop/NCR_PoC/kmp/app/src/commonMain/kotlin/business/TodosViewModel.kt"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "11">
+               </Location>
+               <Location
+                  uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396 - 20a3c752d48838bc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kfun:business.TodosViewModel.$loadTodos$lambda-1$FUNCTION_REFERENCE$0.&lt;init&gt;#internal"
+                  moduleName = "app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/XP250007/Desktop/NCR_PoC/kmp/app/src/commonMain/kotlin/business/TodosViewModel.kt"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "99D26D91-9A73-4EBC-B5BD-83F2C50FD396 - c3b38d090c07df12"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kfun:business.TodosViewModel.$loadTodos$lambda-1$FUNCTION_REFERENCE$0.invoke#internal"
+                  moduleName = "app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/XP250007/Desktop/NCR_PoC/kmp/app/src/commonMain/kotlin/business/TodosViewModel.kt"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "11">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FD18FC2-5AFF-41F0-8991-EA07C5F4B03B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../app/src/commonMain/kotlin/business/ViewModel.kt"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E922632B-5C8B-4AA3-9236-69E0A9282B02"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../app/src/commonMain/kotlin/business/ViewModel.kt"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23BFE253-9CAB-411D-BE79-4AB6FCDF60C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../app/src/commonMain/kotlin/data/TodoRepository.kt"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2ACCAA9-1BA6-4DCB-9D74-01ACFACC23F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosApp/TodoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "onError(error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86A879DF-1542-4550-ACD7-F5501FC2BC67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosApp/TodoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "onSuccess(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00D45524-0D1D-470B-BD51-522C9A0C2AFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosApp/TodoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "onLoading(isLoading:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
